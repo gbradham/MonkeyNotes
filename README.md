@@ -1,1 +1,2 @@
 # MonkeyNotes
+Welcome to MonkeyNotes!
